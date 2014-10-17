@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nax:home|Door43 (nax)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nax|d43-nax repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nax/archive/master.zip|d43-nax.zip]]
+
+**Recent Changes**
+{{changes>ns = nax}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nax|Ethnologue data]]
+
